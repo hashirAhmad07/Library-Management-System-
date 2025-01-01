@@ -1,7 +1,7 @@
 # Library-Management-System-
 
 Group Project By:
-Hashir Ahmad
+Hashir Ahmad &
 Maheen Hammad
 
 Library management system with GUI & Database 
